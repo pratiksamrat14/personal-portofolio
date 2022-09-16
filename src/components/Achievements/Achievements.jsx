@@ -31,7 +31,7 @@ const Services = () => {
           <br />
           here you can download my resume just click on Download button 🤗
         </spane>
-        <a href="https://drive.google.com/file/d/1IpIfc_lfnVeYLxf9z5cJBU-n9Qgqgq8b/view?usp=sharing" download>
+        <a href="https://drive.google.com/file/d/16H1p0IgJUXnP5OieVuezX6utrzWkpc5e/view" download>
           <button className="button s-button">Download CV</button>
         </a>
         <div className="blur s-blur1" style={{ background: "#ABF1FF94" }}></div>
